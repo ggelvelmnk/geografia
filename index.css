@@ -1,0 +1,61 @@
+.body {
+    font-family: helvetica;
+}
+.tema-escuro {
+    color: black;
+    background-color: aliceblue;
+}
+.nome {
+    position: absolute;
+    left: 20px;
+}
+.titulo1 {
+    position: absolute;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 40px;
+}
+.titulo> img {
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin: auto;
+}
+.titulo2 {
+    margin-top: 70px;
+    border-left: 20px;
+    width: 300px;
+}
+.text1 {
+    margin-top: 30px;
+    left: 40px;
+    width: 900px;
+}
+.text2 {
+    position: absolute;
+    right: 20px;
+}
+.img2> img {
+    width: auto;
+    height: 500px;
+    margin-top: 60px;
+}
+.text3 {
+    position: absolute;
+    left: auto;
+    width: 800px;
+}
+.titulo3 {
+    position: absolute;
+    left: 20px;
+    margin-top: 20px;
+}
+.titulo5 {
+    margin-top: 350px;
+    width: 300px;
+}
+.text4 {
+    position: absolute;
+    left: 20px;
+    width: 800px;
+}
